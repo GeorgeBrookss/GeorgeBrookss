@@ -23,7 +23,7 @@ meus projetos atualizados com as novas tecnologias.
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=HamburgueriaZ&theme=dark)](https://github.com/GeorgeBrookss/HamburgueriaZ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Manual-de-Ciberseguranca&theme=dark)](https://github.com/GeorgeBrookss/Manual-de-Ciberseguranca)
 
 
 ### Linguagens utilizadas 
