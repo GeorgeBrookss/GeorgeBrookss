@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**GeorgeBrookss/GeorgeBrookss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Sobre mim
+Desenvolvedor Full Stack com proficiência em HTML, CSS, JavaScript, SQL e Frameworks como React e Angular 
+e Android Studio. Tenho experiência na criação de soluções completas, tanto no front-end quanto no back-end, 
+com foco em interfaces responsivas, integração com banco de dados e desenvolvimento mobile. 
+Participei de projetos práticos como a criação de um banco de dados relacional utilizando MySQL Workbench, 
+onde estruturei e manipulei dados a partir de um diagrama entidade-relacionamento e realizei consultas por meio 
+de Views em SQL. No desenvolvimento mobile, destaque para o projeto HamburgeriaZ, onde construí a interface 
+de um aplicativo android com funcionalidades de pedido e integração com apps nativos usando Intent, além da 
+exportação final do projeto em formato instalável. 
+Outra experiência relevante foi no projeto de extensão Manual de Cibersegurança, um aplicativo Android com 
+objetivo educacional voltado para o público idoso e adolescente, promovendo a conscientização sobre segurança 
+digital. O app foi testado com usuários reais, teve retorno positivo e está em processo de publicação na Google 
+Play Store. 
+Aplico boas práticas de desenvolvimento, versionamento com Git e GitHub, e refatoração evolutiva para manter 
+meus projetos atualizados com as novas tecnologias.
