@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
 
 </p>
 
@@ -29,7 +29,7 @@
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Manual-de-Ciberseguranca&theme=dark)](https://github.com/GeorgeBrookss/Manual-de-Ciberseguranca)
-[![Readme Card](https://github.com/GeorgeBrookss/HamburgueriaZ/blob/main/README.md)](https://github.com/GeorgeBrookss/HamburgueriaZ)
+[![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=HamburgueriaZ&theme=dark)](https://github.com/GeorgeBrookss/HamburgueriaZ)
 
 
 ### Contatos
