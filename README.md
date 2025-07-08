@@ -1,4 +1,4 @@
-👋 Olá, sou o Georgem trabalho como Desenvolvedor FullStack desde 2024
+👋 Olá, sou o George, trabalho como Desenvolvedor FullStack desde 2024
 
 ## 👀 Interesses
 
