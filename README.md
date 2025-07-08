@@ -10,18 +10,8 @@
 - Boas práticas de código limpo e testes automatizados
 
 ### Detalhes
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark&rank_icon=github&custom_title=George%20Hughes'%20GitHub%20Stats" width="400px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact&theme=dark" width="400px"/>
-    </td>
-  </tr>
-</table>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<img width="49%" height="195px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<img width="49%" height="195px" />
 
 ### Projetos
 
