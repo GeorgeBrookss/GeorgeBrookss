@@ -10,8 +10,8 @@
 - Boas práticas de código limpo e testes automatizados
 
 ### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<img width="49%" height="195px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<img width="49%" height="195px" />
+[
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<img width="49%" height="195px" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<img width="49%" height="195px" />](https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark&card_width=400)
 
 ### Projetos
 
