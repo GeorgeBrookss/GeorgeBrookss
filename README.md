@@ -11,7 +11,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark)](https://github.com/GeorgeBrookss) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact)](https://github.com/GeorgeBrookss)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark)](https://github.com/GeorgeBrookss) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact&theme=dark)](https://github.com/GeorgeBrookss)
 
 ### Tecnologias
 
@@ -28,8 +28,8 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Manual-de-Ciberseguranca&theme=dark)](https://github.com/GeorgeBrookss/Manual-de-Ciberseguranca)
-[![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=HamburgueriaZ&theme=dark)](https://github.com/GeorgeBrookss/HamburgueriaZ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=&theme=dark)](https://github.com/GeorgeBrookss/Manual-de-Ciberseguranca)
+[![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Eplay-loja-de-games&theme=dark)](https://github.com/GeorgeBrookss/HamburgueriaZ)
 
 
 ### Contatos
