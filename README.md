@@ -28,8 +28,9 @@
 
 ### Projetos
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=&theme=dark)](https://github.com/GeorgeBrookss/Eplay-loja-de-games)
-[![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Eplay-loja-de-games&theme=dark)](https://github.com/GeorgeBrookss/HamburgueriaZ)
+[![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Eplay-loja-de-games&theme=dark)](https://github.com/GeorgeBrookss/Eplay-loja-de-games)
 
 
 ### Contatos
