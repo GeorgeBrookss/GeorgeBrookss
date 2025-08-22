@@ -1,4 +1,4 @@
-### 👋 Olá, sou o George, trabalho como Desenvolvedor FullStack desde 2024
+# 👋 Olá, sou o George, trabalho como Desenvolvedor FullStack desde 2024
 
 ## 👀 Interesses
 
@@ -28,8 +28,10 @@
 
 ### Projetos
 
-
 [![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Eplay-loja-de-games&theme=dark)](https://github.com/GeorgeBrookss/Eplay-loja-de-games)
+
+> E-commerce de jogos feito com React e Node.js.
+
 [![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Servidor-de-Aplicacao-Linux-Nginx-Gunicorn&theme=dark)](https://github.com/GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn)
 
 
