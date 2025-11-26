@@ -38,7 +38,7 @@
 
 ### Projetos
 
-[![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Peridot&theme=dark)](https://github.com/GeorgeBrookss/Peridot)
+[![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Servidor-de-Aplicacao-Linux-Nginx-Gunicorn&theme=dark)](https://github.com/GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn)
 [![Readme Card]( https://github-readme-stats.vercel.app/api/pin/?username=georgebrookss&repo=Servidor-de-Aplicacao-Linux-Nginx-Gunicorn&theme=dark)](https://github.com/GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn)
 
 
