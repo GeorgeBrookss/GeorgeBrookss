@@ -11,13 +11,12 @@
 
 ### Detalhes
 <div align="left">
-  <a href="https://github.com/GeorgeBrookss">
-    <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats" />
-  </a>
-  <a href="https://github.com/GeorgeBrookss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact&theme=dark&hide_border=true" height="180" alt="languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark&hide_border=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact&theme=dark&hide_border=true" height="160" alt="languages" />
 </div>
+
+<br>
+
 ### Tecnologias
 
 <p align="left">
