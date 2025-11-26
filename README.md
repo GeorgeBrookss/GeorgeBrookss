@@ -40,11 +40,10 @@
 
 <div align="left">
   <a href="https://github.com/GeorgeBrookss/Peridot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeBrookss&repo=Peridot&theme=dark&v=2" alt="Peridot" />
+    <img src="https://github-readme-repo-card.vercel.app/api?fullname=GeorgeBrookss/Peridot&theme=dark" alt="Peridot" />
   </a>
-
   <a href="https://github.com/GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeBrookss&repo=Servidor-de-Aplicacao-Linux-Nginx-Gunicorn&theme=dark" alt="Servidor Linux" />
+    <img src="https://github-readme-repo-card.vercel.app/api?fullname=GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn&theme=dark" alt="Servidor Linux" />
   </a>
 </div>
 
