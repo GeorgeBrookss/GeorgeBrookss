@@ -42,8 +42,8 @@
   <a href="https://github.com/GeorgeBrookss/Peridot">
     <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Peridot?v=atualiza1" alt="Peridot" width="45%" />
   </a>
-  <a href="https://github.com/GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn">
-    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn?v=atualiza1" alt="Servidor Linux" width="45%" />
+  <a href="https://github.com/GeorgeBrookss/Eplay-loja-de-games">
+    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Eplay-loja-de-games?v=atualiza1" alt="E-Play" width="45%" />
   </a>
 </div>
 
