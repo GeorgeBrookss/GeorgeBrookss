@@ -10,9 +10,14 @@
 - Boas práticas de código limpo e testes automatizados
 
 ### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark)](https://github.com/GeorgeBrookss) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact&theme=dark)](https://github.com/GeorgeBrookss)
-
+<div align="left">
+  <a href="https://github.com/GeorgeBrookss">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeBrookss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/GeorgeBrookss">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBrookss&layout=compact&theme=dark"/>
+  </a>
+</div>
 ### Tecnologias
 
 <p align="left">
