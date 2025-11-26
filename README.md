@@ -40,10 +40,10 @@
 
 <div align="left">
   <a href="https://github.com/GeorgeBrookss/Peridot">
-    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Peridot" alt="Peridot" width="45%" />
+    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Peridot?v=atualiza1" alt="Peridot" width="45%" />
   </a>
   <a href="https://github.com/GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn">
-    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn" alt="Servidor Linux" width="45%" />
+    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Servidor-de-Aplicacao-Linux-Nginx-Gunicorn?v=atualiza1" alt="Servidor Linux" width="45%" />
   </a>
 </div>
 
