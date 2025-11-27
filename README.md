@@ -2,20 +2,20 @@
 
 ### Interesses
 
-- UX/UI Design e experiência do usuário aplicada ao desenvolvimento
-- Desenvolvimento Front-End com foco em performance e acessibilidade
-- Ecossistema JavaScript (React, Node.js, TypeScript, etc.)
-- Design de interfaces e estéticas visuais digitais (Frutiger Aero, Glassmorfismo, etc.)
-- Backend escalável com Node.js, Express e bancos de dados SQL/NoSQL
-- Boas práticas de código limpo e testes automatizados
+- UX/UI Design e experiência do usuário aplicada ao desenvolvimento  
+- Desenvolvimento Front-End com foco em performance e acessibilidade  
+- Ecossistema JavaScript (React, Node.js, TypeScript, etc.)  
+- Design de interfaces e estéticas visuais digitais (Frutiger Aero, Glassmorfismo, etc.)  
+- Backend escalável com Node.js, Express e bancos de dados SQL/NoSQL  
+- Boas práticas de código limpo e testes automatizados  
 
 ### Detalhes
 <div align="left">
   <a href="https://github.com/GeorgeBrookss">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeBrookss&theme=dark&hide_border=true" height="180" alt="streak stats" />
+    <img src="https://streak-stats.demolab.com/?user=GeorgeBrookss&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="streak stats" />
   </a>
   <a href="https://github.com/GeorgeBrookss">
-    <img src="https://metrics.lecoq.io/GeorgeBrookss?template=classic&base=0&languages=1&languages.colors=github&languages.threshold=0%&config.timezone=America%2FSao_Paulo" height="180" alt="metrics languages" />
+    <img src="https://metrics.lecoq.io/GeorgeBrookss?template=classic&base=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&cache=86400" height="180" alt="metrics languages" />
   </a>
 </div>
 
@@ -30,20 +30,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
-  
-
-
 </p>
-
 
 ### Projetos
 
 <div align="left">
   <a href="https://github.com/GeorgeBrookss/Peridot">
-    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Peridot?v=atualiza1" alt="Peridot" width="45%" />
+    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Peridot?v=1" alt="Peridot" width="45%" />
   </a>
   <a href="https://github.com/GeorgeBrookss/Eplay-loja-de-games">
-    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Eplay-loja-de-games?v=atualiza1" alt="E-Play" width="45%" />
+    <img src="https://opengraph.githubassets.com/1/GeorgeBrookss/Eplay-loja-de-games?v=1" alt="E-Play" width="45%" />
   </a>
 </div>
 
