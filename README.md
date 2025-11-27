@@ -40,7 +40,7 @@
     <img 
       src="https://opengraph.githubassets.com/2/GeorgeBrookss/Eplay-loja-de-games" 
       alt="Eplay-loja-de-games" 
-      style="width: 100%; border-radius: 10px;"
+      style="width: 70%; border-radius: 10px;"
     />
   </a>
 
@@ -48,7 +48,7 @@
     <img 
       src="https://opengraph.githubassets.com/3/GeorgeBrookss/Peridot" 
       alt="Peridot" 
-      style="width: 100%; border-radius: 10px;"
+      style="width: 70%; border-radius: 10px;"
     />
   </a>
 
