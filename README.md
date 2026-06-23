@@ -1,4 +1,4 @@
-## 👋 Olá, sou o George, trabalho como Desenvolvedor FullStack desde 2024
+## 👋 Olá, sou o George, trabalho como Desenvolvedor Front-end desde 2024
 
 ### Interesses
 
@@ -36,14 +36,6 @@
 
 <div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
 
-  <a href="https://github.com/GeorgeBrookss/Eplay-loja-de-games" style="flex-basis: 45%; min-width: 250px;">
-    <img 
-      src="https://opengraph.githubassets.com/2/GeorgeBrookss/Eplay-loja-de-games" 
-      alt="Eplay-loja-de-games" 
-      style="width: 100%; border-radius: 10px;"
-    />
-  </a>
-
   <a href="https://github.com/GeorgeBrookss/Peridot" style="flex-basis: 45%; min-width: 250px;">
     <img 
       src="https://opengraph.githubassets.com/3/GeorgeBrookss/Peridot" 
@@ -52,7 +44,15 @@
     />
   </a>
 
-</div>
+  <a href="https://github.com/GeorgeBrookss/Eplay-loja-de-games" style="flex-basis: 45%; min-width: 250px;">
+    <img 
+      src="https://opengraph.githubassets.com/2/GeorgeBrookss/Eplay-loja-de-games" 
+      alt="Eplay-loja-de-games" 
+      style="width: 100%; border-radius: 10px;"
+    />
+  </a>
+
+  </div>
 
 ### Contatos
 
