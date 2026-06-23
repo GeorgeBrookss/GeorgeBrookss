@@ -4,8 +4,8 @@
 
 - UX/UI Design e experiência do usuário aplicada ao desenvolvimento  
 - Desenvolvimento Front-End com foco em performance e acessibilidade  
-- Ecossistema JavaScript (React, Node.js, TypeScript, etc.)  
-- Design de interfaces e estéticas visuais digitais (Frutiger Aero, Glassmorfismo, etc.)  
+- Ecossistema JavaScript (React, Node.js, TypeScript)  
+- Design de interfaces e estéticas visuais digitais como Frutiger Aero e Glassmorfismo
 - Backend escalável com Node.js, Express e bancos de dados SQL/NoSQL  
 - Boas práticas de código limpo e testes automatizados  
 
@@ -34,7 +34,7 @@
 
 ### Projetos
 
-<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap; background-color: transparent;">
+<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap; background:#000;">
 
   <a href="https://github.com/GeorgeBrookss/Peridot" style="flex-basis: 45%; min-width: 250px;">
     <img 
