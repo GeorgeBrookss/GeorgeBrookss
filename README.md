@@ -34,7 +34,7 @@
 
 ### Projetos
 
-<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap; background-color: black;">
 
   <a href="https://github.com/GeorgeBrookss/Peridot" style="flex-basis: 45%; min-width: 250px;">
     <img 
