@@ -15,7 +15,7 @@
     <img src="https://streak-stats.demolab.com/?user=GeorgeBrookss&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" alt="streak stats" />
   </a>
   <a href="https://github.com/GeorgeBrookss">
-    <img src="https://metrics.lecoq.io/GeorgeBrookss?template=classic&base=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&cache=86400" height="180" alt="metrics languages" />
+    <img src="https://metrics.lecoq.io/GeorgeBrookss?template=classic&theme=dark&base=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&cache=86400" height="180" alt="metrics languages" />
   </a>
 </div>
 
