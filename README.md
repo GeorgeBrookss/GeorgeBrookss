@@ -5,7 +5,6 @@
 - UX/UI Design e experiência do usuário aplicada ao desenvolvimento  
 - Desenvolvimento Front-End com foco em performance e acessibilidade  
 - Ecossistema JavaScript (React, Node.js, TypeScript)  
-- Design de interfaces e estéticas visuais digitais como Frutiger Aero e Glassmorfismo
 - Backend escalável com Node.js, Express e bancos de dados SQL/NoSQL  
 - Boas práticas de código limpo e testes automatizados  
 
