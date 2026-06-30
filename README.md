@@ -34,14 +34,14 @@
 <td>
 
 <a href="https://github.com/GeorgeBrookss/Peridot">
-<img src="https://opengraph.githubassets.com/3/GeorgeBrookss/Peridot">
+<img src="https://github.com/GeorgeBrookss/Nintendo-Switch-2-Store-Case-Tecnico">
 </a>
 
 </td>
 <td>
 
 <a href="https://github.com/GeorgeBrookss/Eplay-loja-de-games">
-<img src="https://opengraph.githubassets.com/2/GeorgeBrookss/Eplay-loja-de-games">
+<img src="https://opengraph.githubassets.com/3/GeorgeBrookss/Peridot">
 </a>
 
 </td>
