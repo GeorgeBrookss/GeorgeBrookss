@@ -27,27 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
 </p>
 
-### Projetos
-
-<table>
-<tr>
-<td>
-
-<a href="https://github.com/GeorgeBrookss/Peridot">
-<img src="https://github.com/GeorgeBrookss/Nintendo-Switch-2-Store-Case-Tecnico">
-</a>
-
-</td>
-<td>
-
-<a href="https://github.com/GeorgeBrookss/Eplay-loja-de-games">
-<img src="https://opengraph.githubassets.com/3/GeorgeBrookss/Peridot">
-</a>
-
-</td>
-</tr>
-</table>
-
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/george-m-brooks/)
